@@ -1,16 +1,3 @@
-# my_app
+# Fashion_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto sendo desenvolvido com flutter e firebase para gerenciar algumas informações do sistema, sistema conta com pdv, gerencia de estoque, cadastro de clientes e vendedores, adição de vendedores as vendas, sistema de emissão de nota e mais...
